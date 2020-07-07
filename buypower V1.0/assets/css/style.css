@@ -1,0 +1,45 @@
+body{
+    background-image: url(../images/IMG-20200703-WA0028.jpg);
+}
+.navbar{
+    margin-top: 15px;
+}
+.navbar-brand img {
+    width: 250px;
+}
+
+.navbar a{
+    color: white!important;
+    font-weight: bold;
+}
+
+.button{
+    background-color: rgba(142, 185, 55, 0.787);
+    padding: 8px 15px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+}
+.button:hover{
+        background-color: rgb(240, 177, 6);
+        padding: 8px 15px;
+        font-weight: bold;
+        color: white;
+        border-radius: 5px;
+}
+
+.nav-item{
+    margin-right: 10px;
+}
+.form-control{
+    margin-top: 10px;
+    padding: 5px;
+    height: 60px;
+    border: none;
+}
+
+input[type="text"]{
+  font-size: 30px;
+  padding-left: 20px    ;
+    
+}
